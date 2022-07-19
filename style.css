@@ -35,5 +35,9 @@ body {
         color: #954422;
         background-color: aqua;
         border-radius: 30%;
-        margin: 60px;
+        text-decoration: none;
+        padding: 10px 30px;
+}
+.artigo {
+        text-decoration: double;
 }
