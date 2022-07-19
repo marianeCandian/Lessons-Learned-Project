@@ -5,9 +5,14 @@
         text-align: center;
     }
     #cabecalho{
-    position: fixed;
-    top: 0;
-    text-align: center;
-    left: 0;
-    right: 0;
+        position: fixed;
+        top: 0;
+        text-align: center;
+        left: 0;
+        right: 0;
+    }
+    #minha_foto{
+        border-radius: 20%;
+        width: 300px;
+        text-align: center;
     }
