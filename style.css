@@ -13,13 +13,13 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
- #cabecalho {
+#cabecalho {
   position: fixed;
   top: 0;
   text-align: center;
   left: 0;
   right: 0;
-  background-color: #90e0ef; 
+  background-color: #90e0ef;
 }
 
 #minha_foto {
